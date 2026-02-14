@@ -1,4 +1,5 @@
 # Optical-character-recognition---free-symbol-dataset
 A repository containing the files dataset.txt (a dataset containing  some  symbols, see dictionnary.txt for more information) and labels.txt for the different labels. 
+They are contained in dataset.zip and labels.zip respectively.
 Each row of dataset.txt must be reshaped into a 64x64 array to visualize the symbol. 
 There must be some neglectible mistackes on a few symbols. The lables for the symbols 'i' and 'l' need some corrections (currently working on it)
